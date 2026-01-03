@@ -1,0 +1,1 @@
+const util_l102 = (d: any) => d;
